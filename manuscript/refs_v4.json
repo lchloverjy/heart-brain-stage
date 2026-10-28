@@ -1,0 +1,3577 @@
+{
+ "GBD_stroke_2024": {
+  "doi": "10.1016/s1474-4422(24)00369-7",
+  "first_author": "Feigin",
+  "given": "Valery L",
+  "n_authors": 1403,
+  "authors": [
+   [
+    "Feigin",
+    "Valery L"
+   ],
+   [
+    "Abate",
+    "Melsew Dagne"
+   ],
+   [
+    "Abate",
+    "Yohannes Habtegiorgis"
+   ],
+   [
+    "Abd ElHafeez",
+    "Samar"
+   ],
+   [
+    "Abd-Allah",
+    "Foad"
+   ],
+   [
+    "Abdelalim",
+    "Ahmed"
+   ]
+  ],
+  "title": "Global, regional, and national burden of stroke and its risk factors, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021",
+  "journal": "The Lancet Neurology",
+  "journal_short": "The Lancet Neurology",
+  "year": 2024,
+  "volume": "23",
+  "issue": "10",
+  "page": "973-1003",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Feigin_WSO_2025": {
+  "doi": "10.1177/17474930241308142",
+  "first_author": "Feigin",
+  "given": "Valery L",
+  "n_authors": 8,
+  "authors": [
+   [
+    "Feigin",
+    "Valery L"
+   ],
+   [
+    "Brainin",
+    "Michael"
+   ],
+   [
+    "Norrving",
+    "Bo"
+   ],
+   [
+    "Martins",
+    "Sheila O"
+   ],
+   [
+    "Pandian",
+    "Jeyaraj"
+   ],
+   [
+    "Lindsay",
+    "Patrice"
+   ]
+  ],
+  "title": "World Stroke Organization: Global Stroke Fact Sheet 2025",
+  "journal": "International Journal of Stroke",
+  "journal_short": "International Journal of Stroke",
+  "year": 2025,
+  "volume": "20",
+  "issue": "2",
+  "page": "132-144",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Martin_AHA_2025": {
+  "doi": "10.1161/cir.0000000000001303",
+  "first_author": "Martin",
+  "given": "Seth S.",
+  "n_authors": 42,
+  "authors": [
+   [
+    "Martin",
+    "Seth S."
+   ],
+   [
+    "Aday",
+    "Aaron W."
+   ],
+   [
+    "Allen",
+    "Norrina B."
+   ],
+   [
+    "Almarzooq",
+    "Zaid I."
+   ],
+   [
+    "Anderson",
+    "Cheryl A.M."
+   ],
+   [
+    "Arora",
+    "Pankaj"
+   ]
+  ],
+  "title": "2025 Heart Disease and Stroke Statistics: A Report of US and Global Data From the American Heart Association",
+  "journal": "Circulation",
+  "journal_short": "Circulation",
+  "year": 2025,
+  "volume": "151",
+  "issue": "8",
+  "page": null,
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Khan_PREVENT_2024": {
+  "doi": "10.1161/circulationaha.123.067626",
+  "first_author": "Khan",
+  "given": "Sadiya S.",
+  "n_authors": 28,
+  "authors": [
+   [
+    "Khan",
+    "Sadiya S."
+   ],
+   [
+    "Matsushita",
+    "Kunihiro"
+   ],
+   [
+    "Sang",
+    "Yingying"
+   ],
+   [
+    "Ballew",
+    "Shoshana H."
+   ],
+   [
+    "Grams",
+    "Morgan E."
+   ],
+   [
+    "Surapaneni",
+    "Aditya"
+   ]
+  ],
+  "title": "Development and Validation of the American Heart Association’s PREVENT Equations",
+  "journal": "Circulation",
+  "journal_short": "Circulation",
+  "year": 2024,
+  "volume": "149",
+  "issue": "6",
+  "page": "430-449",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "SCORE2_2021": {
+  "doi": "10.1093/eurheartj/ehab309",
+  "first_author": "SCORE2 working group and ESC Cardiovascular risk collaboration",
+  "given": "",
+  "n_authors": 176,
+  "authors": [
+   [
+    "SCORE2 working group and ESC Cardiovascular risk collaboration",
+    ""
+   ],
+   [
+    "Hageman",
+    "Steven"
+   ],
+   [
+    "Pennells",
+    "Lisa"
+   ],
+   [
+    "Ojeda",
+    "Francisco"
+   ],
+   [
+    "Kaptoge",
+    "Stephen"
+   ],
+   [
+    "Kuulasmaa",
+    "Kari"
+   ]
+  ],
+  "title": "SCORE2 risk prediction algorithms: new models to estimate 10-year risk of cardiovascular disease in Europe",
+  "journal": "European Heart Journal",
+  "journal_short": "",
+  "year": 2021,
+  "volume": "42",
+  "issue": "25",
+  "page": "2439-2454",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Livingston_2024": {
+  "doi": "10.1016/s0140-6736(24)01296-0",
+  "first_author": "Livingston",
+  "given": "Gill",
+  "n_authors": 27,
+  "authors": [
+   [
+    "Livingston",
+    "Gill"
+   ],
+   [
+    "Huntley",
+    "Jonathan"
+   ],
+   [
+    "Liu",
+    "Kathy Y"
+   ],
+   [
+    "Costafreda",
+    "Sergi G"
+   ],
+   [
+    "Selbæk",
+    "Geir"
+   ],
+   [
+    "Alladi",
+    "Suvarna"
+   ]
+  ],
+  "title": "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission",
+  "journal": "The Lancet",
+  "journal_short": "The Lancet",
+  "year": 2024,
+  "volume": "404",
+  "issue": "10452",
+  "page": "572-628",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Zhao_Science_2023": {
+  "doi": "10.1126/science.abn6598",
+  "first_author": "Zhao",
+  "given": "Bingxin",
+  "n_authors": 19,
+  "authors": [
+   [
+    "Zhao",
+    "Bingxin"
+   ],
+   [
+    "Li",
+    "Tengfei"
+   ],
+   [
+    "Fan",
+    "Zirui"
+   ],
+   [
+    "Yang",
+    "Yue"
+   ],
+   [
+    "Shu",
+    "Juan"
+   ],
+   [
+    "Yang",
+    "Xiaochen"
+   ]
+  ],
+  "title": "Heart-brain connections: Phenotypic and genetic insights from magnetic resonance images",
+  "journal": "Science",
+  "journal_short": "Science",
+  "year": 2023,
+  "volume": "380",
+  "issue": "6648",
+  "page": "abn6598",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "McCracken_2022": {
+  "doi": "10.1038/s41467-022-35321-2",
+  "first_author": "McCracken",
+  "given": "Celeste",
+  "n_authors": 9,
+  "authors": [
+   [
+    "McCracken",
+    "Celeste"
+   ],
+   [
+    "Raisi-Estabragh",
+    "Zahra"
+   ],
+   [
+    "Veldsman",
+    "Michele"
+   ],
+   [
+    "Raman",
+    "Betty"
+   ],
+   [
+    "Dennis",
+    "Andrea"
+   ],
+   [
+    "Husain",
+    "Masud"
+   ]
+  ],
+  "title": "Multi-organ imaging demonstrates the heart-brain-liver axis in UK Biobank participants",
+  "journal": "Nature Communications",
+  "journal_short": "Nat Commun",
+  "year": 2022,
+  "volume": "13",
+  "issue": "1",
+  "page": "7839",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "RaisiEstabragh_cog_2022": {
+  "doi": "10.1093/ehjci/jeab075",
+  "first_author": "Raisi-Estabragh",
+  "given": "Zahra",
+  "n_authors": 14,
+  "authors": [
+   [
+    "Raisi-Estabragh",
+    "Zahra"
+   ],
+   [
+    "M'Charrak",
+    "Amine"
+   ],
+   [
+    "McCracken",
+    "Celeste"
+   ],
+   [
+    "Biasiolli",
+    "Luca"
+   ],
+   [
+    "Ardissino",
+    "Maddalena"
+   ],
+   [
+    "Curtis",
+    "Elizabeth M"
+   ]
+  ],
+  "title": "Associations of cognitive performance with cardiovascular magnetic resonance phenotypes in the UK Biobank",
+  "journal": "European Heart Journal - Cardiovascular Imaging",
+  "journal_short": "",
+  "year": 2022,
+  "volume": "23",
+  "issue": "5",
+  "page": "663-672",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Masci_EHJ_2025": {
+  "doi": "10.1093/eurheartj/ehaf722",
+  "first_author": "Masci",
+  "given": "Pier-Giogio",
+  "n_authors": 20,
+  "authors": [
+   [
+    "Masci",
+    "Pier-Giogio"
+   ],
+   [
+    "Freydin",
+    "Maxim"
+   ],
+   [
+    "Andreozzi",
+    "Gianni"
+   ],
+   [
+    "Puyol-Anton",
+    "Esther"
+   ],
+   [
+    "Mohamed",
+    "Aqeel T"
+   ],
+   [
+    "Ruijsink",
+    "Bram"
+   ]
+  ],
+  "title": "Left ventricular geometry, brain architecture, and cognition: an observational study",
+  "journal": "European Heart Journal",
+  "journal_short": "",
+  "year": 2025,
+  "volume": null,
+  "issue": null,
+  "page": "ehaf722",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Duering_STRIVE2_2023": {
+  "doi": "10.1016/s1474-4422(23)00131-x",
+  "first_author": "Duering",
+  "given": "Marco",
+  "n_authors": 54,
+  "authors": [
+   [
+    "Duering",
+    "Marco"
+   ],
+   [
+    "Biessels",
+    "Geert Jan"
+   ],
+   [
+    "Brodtmann",
+    "Amy"
+   ],
+   [
+    "Chen",
+    "Christopher"
+   ],
+   [
+    "Cordonnier",
+    "Charlotte"
+   ],
+   [
+    "de Leeuw",
+    "Frank-Erik"
+   ]
+  ],
+  "title": "Neuroimaging standards for research into small vessel disease—advances since 2013",
+  "journal": "The Lancet Neurology",
+  "journal_short": "The Lancet Neurology",
+  "year": 2023,
+  "volume": "22",
+  "issue": "7",
+  "page": "602-618",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Debette_JAMANeurol_2019": {
+  "doi": "10.1001/jamaneurol.2018.3122",
+  "first_author": "Debette",
+  "given": "Stéphanie",
+  "n_authors": 5,
+  "authors": [
+   [
+    "Debette",
+    "Stéphanie"
+   ],
+   [
+    "Schilling",
+    "Sabrina"
+   ],
+   [
+    "Duperron",
+    "Marie-Gabrielle"
+   ],
+   [
+    "Larsson",
+    "Susanna C."
+   ],
+   [
+    "Markus",
+    "Hugh S."
+   ]
+  ],
+  "title": "Clinical Significance of Magnetic Resonance Imaging Markers of Vascular Brain Injury",
+  "journal": "JAMA Neurology",
+  "journal_short": "JAMA Neurol",
+  "year": 2019,
+  "volume": "76",
+  "issue": "1",
+  "page": "81",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Suri_PLoSMed_2020": {
+  "doi": "10.1371/journal.pmed.1003467",
+  "first_author": "Suri",
+  "given": "Sana",
+  "n_authors": 13,
+  "authors": [
+   [
+    "Suri",
+    "Sana"
+   ],
+   [
+    "Chiesa",
+    "Scott T."
+   ],
+   [
+    "Zsoldos",
+    "Enikő"
+   ],
+   [
+    "Mackay",
+    "Clare E."
+   ],
+   [
+    "Filippini",
+    "Nicola"
+   ],
+   [
+    "Griffanti",
+    "Ludovica"
+   ]
+  ],
+  "title": "Associations between arterial stiffening and brain structure, perfusion, and cognition in the Whitehall II Imaging Sub-study: A retrospective cohort study",
+  "journal": "PLOS Medicine",
+  "journal_short": "PLoS Med",
+  "year": 2020,
+  "volume": "17",
+  "issue": "12",
+  "page": "e1003467",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Cooper_JAMANeurol_2022": {
+  "doi": "10.1001/jamaneurol.2022.1261",
+  "first_author": "Cooper",
+  "given": "Leroy L.",
+  "n_authors": 12,
+  "authors": [
+   [
+    "Cooper",
+    "Leroy L."
+   ],
+   [
+    "O’Donnell",
+    "Adrienne"
+   ],
+   [
+    "Beiser",
+    "Alexa S."
+   ],
+   [
+    "Thibault",
+    "Emma G."
+   ],
+   [
+    "Sanchez",
+    "Justin S."
+   ],
+   [
+    "Benjamin",
+    "Emelia J."
+   ]
+  ],
+  "title": "Association of Aortic Stiffness and Pressure Pulsatility With Global Amyloid-β and Regional Tau Burden Among Framingham Heart Study Participants Without Dementia",
+  "journal": "JAMA Neurology",
+  "journal_short": "JAMA Neurol",
+  "year": 2022,
+  "volume": "79",
+  "issue": "7",
+  "page": "710",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Zhang_AD_2026": {
+  "doi": "10.1002/alz.71756",
+  "first_author": "Zhang",
+  "given": "Ye",
+  "n_authors": 12,
+  "authors": [
+   [
+    "Zhang",
+    "Ye"
+   ],
+   [
+    "Hughes",
+    "Timothy M."
+   ],
+   [
+    "Zhang",
+    "Wenxin"
+   ],
+   [
+    "Glodzik",
+    "Lidia"
+   ],
+   [
+    "Dolui",
+    "Sudipto"
+   ],
+   [
+    "Goulart",
+    "Thiago Oscar"
+   ]
+  ],
+  "title": "Cerebral perfusion features linking subclinical cardiac and aortic dysfunction to vascular brain injury",
+  "journal": "Alzheimer's &amp; Dementia",
+  "journal_short": "Alzheimer's &amp; Dementia",
+  "year": 2026,
+  "volume": "22",
+  "issue": "8",
+  "page": "e71756",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Habibi_JAHA_2026": {
+  "doi": "10.1161/jaha.125.047458",
+  "first_author": "Habibi",
+  "given": "Parnian",
+  "n_authors": 5,
+  "authors": [
+   [
+    "Habibi",
+    "Parnian"
+   ],
+   [
+    "Chen",
+    "Lin Yee"
+   ],
+   [
+    "Sorond",
+    "Farzaneh A."
+   ],
+   [
+    "Shroff",
+    "Gautam R."
+   ],
+   [
+    "Sabayan",
+    "Behnam"
+   ]
+  ],
+  "title": "Heart–Brain Axis: Subclinical Cardiovascular Changes and Brain Health",
+  "journal": "Journal of the American Heart Association",
+  "journal_short": "JAHA",
+  "year": 2026,
+  "volume": "15",
+  "issue": "3",
+  "page": "e047458",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "UKB_CMR_10y_2026": {
+  "doi": "10.1161/circulationaha.126.080790",
+  "first_author": "Raisi-Estabragh",
+  "given": "Zahra",
+  "n_authors": 3,
+  "authors": [
+   [
+    "Raisi-Estabragh",
+    "Zahra"
+   ],
+   [
+    "Petersen",
+    "Steffen E."
+   ],
+   [
+    "Neubauer",
+    "Stefan"
+   ]
+  ],
+  "title": "Ten Years of Scientific Discovery With the UK Biobank Cardiovascular Magnetic Resonance Imaging Study",
+  "journal": "Circulation",
+  "journal_short": "Circulation",
+  "year": 2026,
+  "volume": "154",
+  "issue": "5",
+  "page": "490-511",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "NatRevNeurol_multiorgan_2026": {
+  "doi": "10.1038/s41582-026-01276-x",
+  "first_author": "Fan",
+  "given": "Zirui",
+  "n_authors": 2,
+  "authors": [
+   [
+    "Fan",
+    "Zirui"
+   ],
+   [
+    "Zhao",
+    "Bingxin"
+   ]
+  ],
+  "title": "Multi-organ imaging genetics: towards an integrated view of brain, body and brain diseases",
+  "journal": "Nature Reviews Neurology",
+  "journal_short": "Nat Rev Neurol",
+  "year": 2026,
+  "volume": null,
+  "issue": null,
+  "page": null,
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Tian_NatMed_2023": {
+  "doi": "10.1038/s41591-023-02296-6",
+  "first_author": "Tian",
+  "given": "Ye Ella",
+  "n_authors": 6,
+  "authors": [
+   [
+    "Tian",
+    "Ye Ella"
+   ],
+   [
+    "Cropley",
+    "Vanessa"
+   ],
+   [
+    "Maier",
+    "Andrea B."
+   ],
+   [
+    "Lautenschlager",
+    "Nicola T."
+   ],
+   [
+    "Breakspear",
+    "Michael"
+   ],
+   [
+    "Zalesky",
+    "Andrew"
+   ]
+  ],
+  "title": "Heterogeneous aging across multiple organ systems and prediction of chronic disease and mortality",
+  "journal": "Nature Medicine",
+  "journal_short": "Nat Med",
+  "year": 2023,
+  "volume": "29",
+  "issue": "5",
+  "page": "1221-1231",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Oh_Nature_2023": {
+  "doi": "10.1038/s41586-023-06802-1",
+  "first_author": "Oh",
+  "given": "Hamilton Se-Hwee",
+  "n_authors": 36,
+  "authors": [
+   [
+    "Oh",
+    "Hamilton Se-Hwee"
+   ],
+   [
+    "Rutledge",
+    "Jarod"
+   ],
+   [
+    "Nachun",
+    "Daniel"
+   ],
+   [
+    "Pálovics",
+    "Róbert"
+   ],
+   [
+    "Abiose",
+    "Olamide"
+   ],
+   [
+    "Moran-Losada",
+    "Patricia"
+   ]
+  ],
+  "title": "Organ aging signatures in the plasma proteome track health and disease",
+  "journal": "Nature",
+  "journal_short": "Nature",
+  "year": 2023,
+  "volume": "624",
+  "issue": "7990",
+  "page": "164-172",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Argentieri_NatMed_2024": {
+  "doi": "10.1038/s41591-024-03164-7",
+  "first_author": "Argentieri",
+  "given": "M. Austin",
+  "n_authors": 24,
+  "authors": [
+   [
+    "Argentieri",
+    "M. Austin"
+   ],
+   [
+    "Xiao",
+    "Sihao"
+   ],
+   [
+    "Bennett",
+    "Derrick"
+   ],
+   [
+    "Winchester",
+    "Laura"
+   ],
+   [
+    "Nevado-Holgado",
+    "Alejo J."
+   ],
+   [
+    "Ghose",
+    "Upamanyu"
+   ]
+  ],
+  "title": "Proteomic aging clock predicts mortality and risk of common age-related diseases in diverse populations",
+  "journal": "Nature Medicine",
+  "journal_short": "Nat Med",
+  "year": 2024,
+  "volume": "30",
+  "issue": "9",
+  "page": "2450-2460",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Goeminne_CellMetab_2025": {
+  "doi": "10.1016/j.cmet.2024.10.005",
+  "first_author": "Goeminne",
+  "given": "Ludger J.E.",
+  "n_authors": 8,
+  "authors": [
+   [
+    "Goeminne",
+    "Ludger J.E."
+   ],
+   [
+    "Vladimirova",
+    "Anastasiya"
+   ],
+   [
+    "Eames",
+    "Alec"
+   ],
+   [
+    "Tyshkovskiy",
+    "Alexander"
+   ],
+   [
+    "Argentieri",
+    "M. Austin"
+   ],
+   [
+    "Ying",
+    "Kejun"
+   ]
+  ],
+  "title": "Plasma protein-based organ-specific aging and mortality models unveil diseases as accelerated aging of organismal systems",
+  "journal": "Cell Metabolism",
+  "journal_short": "Cell Metabolism",
+  "year": 2025,
+  "volume": "37",
+  "issue": "1",
+  "page": "205-222.e6",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Wen_NatAging_2024": {
+  "doi": "10.1038/s43587-024-00662-8",
+  "first_author": "Wen",
+  "given": "Junhao",
+  "n_authors": 11,
+  "authors": [
+   [
+    "Wen",
+    "Junhao"
+   ],
+   [
+    "Tian",
+    "Ye Ella"
+   ],
+   [
+    "Skampardoni",
+    "Ioanna"
+   ],
+   [
+    "Yang",
+    "Zhijian"
+   ],
+   [
+    "Cui",
+    "Yuhan"
+   ],
+   [
+    "Anagnostakis",
+    "Filippos"
+   ]
+  ],
+  "title": "The genetic architecture of biological age in nine human organ systems",
+  "journal": "Nature Aging",
+  "journal_short": "Nat Aging",
+  "year": 2024,
+  "volume": "4",
+  "issue": "9",
+  "page": "1290-1307",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Oh_NatMed_2025": {
+  "doi": "10.1038/s41591-025-03798-1",
+  "first_author": "Oh",
+  "given": "Hamilton Se-Hwee",
+  "n_authors": 12,
+  "authors": [
+   [
+    "Oh",
+    "Hamilton Se-Hwee"
+   ],
+   [
+    "Le Guen",
+    "Yann"
+   ],
+   [
+    "Rappoport",
+    "Nimrod"
+   ],
+   [
+    "Urey",
+    "Deniz Yagmur"
+   ],
+   [
+    "Farinas",
+    "Amelia"
+   ],
+   [
+    "Rutledge",
+    "Jarod"
+   ]
+  ],
+  "title": "Plasma proteomics links brain and immune system aging with healthspan and longevity",
+  "journal": "Nature Medicine",
+  "journal_short": "Nat Med",
+  "year": 2025,
+  "volume": "31",
+  "issue": "8",
+  "page": "2703-2711",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Sun_Nature_2023": {
+  "doi": "10.1038/s41586-023-06592-6",
+  "first_author": "Sun",
+  "given": "Benjamin B.",
+  "n_authors": 65,
+  "authors": [
+   [
+    "Sun",
+    "Benjamin B."
+   ],
+   [
+    "Chiou",
+    "Joshua"
+   ],
+   [
+    "Traylor",
+    "Matthew"
+   ],
+   [
+    "Benner",
+    "Christian"
+   ],
+   [
+    "Hsu",
+    "Yi-Hsiang"
+   ],
+   [
+    "Richardson",
+    "Tom G."
+   ]
+  ],
+  "title": "Plasma proteomic associations with genetics and health in the UK Biobank",
+  "journal": "Nature",
+  "journal_short": "Nature",
+  "year": 2023,
+  "volume": "622",
+  "issue": "7982",
+  "page": "329-338",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Eldjarn_Nature_2023": {
+  "doi": "10.1038/s41586-023-06563-x",
+  "first_author": "Eldjarn",
+  "given": "Grimur Hjorleifsson",
+  "n_authors": 33,
+  "authors": [
+   [
+    "Eldjarn",
+    "Grimur Hjorleifsson"
+   ],
+   [
+    "Ferkingstad",
+    "Egil"
+   ],
+   [
+    "Lund",
+    "Sigrun H."
+   ],
+   [
+    "Helgason",
+    "Hannes"
+   ],
+   [
+    "Magnusson",
+    "Olafur Th."
+   ],
+   [
+    "Gunnarsdottir",
+    "Kristbjorg"
+   ]
+  ],
+  "title": "Large-scale plasma proteomics comparisons through genetics and disease associations",
+  "journal": "Nature",
+  "journal_short": "Nature",
+  "year": 2023,
+  "volume": "622",
+  "issue": "7982",
+  "page": "348-358",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Gadd_NatAging_2024": {
+  "doi": "10.1038/s43587-024-00655-7",
+  "first_author": "Gadd",
+  "given": "Danni A.",
+  "n_authors": 16,
+  "authors": [
+   [
+    "Gadd",
+    "Danni A."
+   ],
+   [
+    "Hillary",
+    "Robert F."
+   ],
+   [
+    "Kuncheva",
+    "Zhana"
+   ],
+   [
+    "Mangelis",
+    "Tasos"
+   ],
+   [
+    "Cheng",
+    "Yipeng"
+   ],
+   [
+    "Dissanayake",
+    "Manju"
+   ]
+  ],
+  "title": "Blood protein assessment of leading incident diseases and mortality in the UK Biobank",
+  "journal": "Nature Aging",
+  "journal_short": "Nat Aging",
+  "year": 2024,
+  "volume": "4",
+  "issue": "7",
+  "page": "939-948",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "CarrascoZanini_NatMed_2024": {
+  "doi": "10.1038/s41591-024-03142-z",
+  "first_author": "Carrasco-Zanini",
+  "given": "Julia",
+  "n_authors": 22,
+  "authors": [
+   [
+    "Carrasco-Zanini",
+    "Julia"
+   ],
+   [
+    "Pietzner",
+    "Maik"
+   ],
+   [
+    "Davitte",
+    "Jonathan"
+   ],
+   [
+    "Surendran",
+    "Praveen"
+   ],
+   [
+    "Croteau-Chonka",
+    "Damien C."
+   ],
+   [
+    "Robins",
+    "Chloe"
+   ]
+  ],
+  "title": "Proteomic signatures improve risk prediction for common and rare diseases",
+  "journal": "Nature Medicine",
+  "journal_short": "Nat Med",
+  "year": 2024,
+  "volume": "30",
+  "issue": "9",
+  "page": "2489-2498",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "You_NatCommun_2023": {
+  "doi": "10.1038/s41467-023-43575-7",
+  "first_author": "You",
+  "given": "Jia",
+  "n_authors": 8,
+  "authors": [
+   [
+    "You",
+    "Jia"
+   ],
+   [
+    "Guo",
+    "Yu"
+   ],
+   [
+    "Zhang",
+    "Yi"
+   ],
+   [
+    "Kang",
+    "Ju-Jiao"
+   ],
+   [
+    "Wang",
+    "Lin-Bo"
+   ],
+   [
+    "Feng",
+    "Jian-Feng"
+   ]
+  ],
+  "title": "Plasma proteomic profiles predict individual future health risk",
+  "journal": "Nature Communications",
+  "journal_short": "Nat Commun",
+  "year": 2023,
+  "volume": "14",
+  "issue": "1",
+  "page": "7817",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Helgason_JAMA_2023": {
+  "doi": "10.1001/jama.2023.13258",
+  "first_author": "Helgason",
+  "given": "Hannes",
+  "n_authors": 35,
+  "authors": [
+   [
+    "Helgason",
+    "Hannes"
+   ],
+   [
+    "Eiriksdottir",
+    "Thjodbjorg"
+   ],
+   [
+    "Ulfarsson",
+    "Magnus O."
+   ],
+   [
+    "Choudhary",
+    "Abhishek"
+   ],
+   [
+    "Lund",
+    "Sigrun H."
+   ],
+   [
+    "Ivarsdottir",
+    "Erna V."
+   ]
+  ],
+  "title": "Evaluation of Large-Scale Proteomics for Prediction of Cardiovascular Events",
+  "journal": "JAMA",
+  "journal_short": "JAMA",
+  "year": 2023,
+  "volume": "330",
+  "issue": "8",
+  "page": "725",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Royer_EJPC_2024": {
+  "doi": "10.1093/eurjpc/zwae124",
+  "first_author": "Royer",
+  "given": "Patrick",
+  "n_authors": 7,
+  "authors": [
+   [
+    "Royer",
+    "Patrick"
+   ],
+   [
+    "Björnson",
+    "Elias"
+   ],
+   [
+    "Adiels",
+    "Martin"
+   ],
+   [
+    "Josefson",
+    "Rebecca"
+   ],
+   [
+    "Hagberg",
+    "Eva"
+   ],
+   [
+    "Gummesson",
+    "Anders"
+   ]
+  ],
+  "title": "Large-scale plasma proteomics in the UK Biobank modestly improves prediction of major cardiovascular events in a population without previous cardiovascular disease",
+  "journal": "European Journal of Preventive Cardiology",
+  "journal_short": "",
+  "year": 2024,
+  "volume": "31",
+  "issue": "14",
+  "page": "1681-1689",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Gan_Stroke_2025": {
+  "doi": "10.1161/strokeaha.124.048654",
+  "first_author": "Gan",
+  "given": "Xiaoqin",
+  "n_authors": 10,
+  "authors": [
+   [
+    "Gan",
+    "Xiaoqin"
+   ],
+   [
+    "Yang",
+    "Sisi"
+   ],
+   [
+    "Zhang",
+    "Yuanyuan"
+   ],
+   [
+    "Ye",
+    "Ziliang"
+   ],
+   [
+    "Zhang",
+    "Yanjun"
+   ],
+   [
+    "Xiang",
+    "Hao"
+   ]
+  ],
+  "title": "Large-Scale Plasma Proteomics Profiles for Predicting Ischemic Stroke Risk in the General Population",
+  "journal": "Stroke",
+  "journal_short": "Stroke",
+  "year": 2025,
+  "volume": "56",
+  "issue": "2",
+  "page": "456-464",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Schuermans_NCR_2024": {
+  "doi": "10.1038/s44161-024-00567-0",
+  "first_author": "Schuermans",
+  "given": "Art",
+  "n_authors": 15,
+  "authors": [
+   [
+    "Schuermans",
+    "Art"
+   ],
+   [
+    "Pournamdari",
+    "Ashley B."
+   ],
+   [
+    "Lee",
+    "Jiwoo"
+   ],
+   [
+    "Bhukar",
+    "Rohan"
+   ],
+   [
+    "Ganesh",
+    "Shriienidhie"
+   ],
+   [
+    "Darosa",
+    "Nicholas"
+   ]
+  ],
+  "title": "Integrative proteomic analyses across common cardiac diseases yield mechanistic insights and enhanced prediction",
+  "journal": "Nature Cardiovascular Research",
+  "journal_short": "Nat Cardiovasc Res",
+  "year": 2024,
+  "volume": "3",
+  "issue": "12",
+  "page": "1516-1530",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Ren_NatCommun_2025": {
+  "doi": "10.1038/s41467-025-60185-7",
+  "first_author": "Ren",
+  "given": "Peng",
+  "n_authors": 21,
+  "authors": [
+   [
+    "Ren",
+    "Peng"
+   ],
+   [
+    "Hou",
+    "Xiao-He"
+   ],
+   [
+    "Li",
+    "Zeyu"
+   ],
+   [
+    "You",
+    "Jia"
+   ],
+   [
+    "Li",
+    "Yuzhu"
+   ],
+   [
+    "Zhang",
+    "Wei"
+   ]
+  ],
+  "title": "Atlas of proteomic signatures of brain structure and its links to brain disorders",
+  "journal": "Nature Communications",
+  "journal_short": "Nat Commun",
+  "year": 2025,
+  "volume": "16",
+  "issue": "1",
+  "page": "5092",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "NCR_heartbrain_2026": {
+  "doi": "10.1038/s44161-026-00799-2",
+  "first_author": "Wu",
+  "given": "Chao",
+  "n_authors": 13,
+  "authors": [
+   [
+    "Wu",
+    "Chao"
+   ],
+   [
+    "Li",
+    "Dantong"
+   ],
+   [
+    "Khetarpal",
+    "Sumeet A."
+   ],
+   [
+    "Yuan",
+    "Zixun"
+   ],
+   [
+    "Huang",
+    "Shengyuan"
+   ],
+   [
+    "Guerra",
+    "Justin Ralph Baldovino"
+   ]
+  ],
+  "title": "Large-scale identification of protein biomarkers and therapeutic targets in heart and brain disease",
+  "journal": "Nature Cardiovascular Research",
+  "journal_short": "Nat Cardiovasc Res",
+  "year": 2026,
+  "volume": "5",
+  "issue": "4",
+  "page": "351-365",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Guo_NatAging_2024": {
+  "doi": "10.1038/s43587-023-00565-0",
+  "first_author": "Guo",
+  "given": "Yu",
+  "n_authors": 11,
+  "authors": [
+   [
+    "Guo",
+    "Yu"
+   ],
+   [
+    "You",
+    "Jia"
+   ],
+   [
+    "Zhang",
+    "Yi"
+   ],
+   [
+    "Liu",
+    "Wei-Shi"
+   ],
+   [
+    "Huang",
+    "Yu-Yuan"
+   ],
+   [
+    "Zhang",
+    "Ya-Ru"
+   ]
+  ],
+  "title": "Plasma proteomic profiles predict future dementia in healthy adults",
+  "journal": "Nature Aging",
+  "journal_short": "Nat Aging",
+  "year": 2024,
+  "volume": "4",
+  "issue": "2",
+  "page": "247-260",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Johnson_NatNeurosci_2022": {
+  "doi": "10.1038/s41593-021-00999-y",
+  "first_author": "Johnson",
+  "given": "Erik C. B.",
+  "n_authors": 24,
+  "authors": [
+   [
+    "Johnson",
+    "Erik C. B."
+   ],
+   [
+    "Carter",
+    "E. Kathleen"
+   ],
+   [
+    "Dammer",
+    "Eric B."
+   ],
+   [
+    "Duong",
+    "Duc M."
+   ],
+   [
+    "Gerasimov",
+    "Ekaterina S."
+   ],
+   [
+    "Liu",
+    "Yue"
+   ]
+  ],
+  "title": "Large-scale deep multi-layer analysis of Alzheimer’s disease brain reveals strong proteomic disease-related changes not observed at the RNA level",
+  "journal": "Nature Neuroscience",
+  "journal_short": "Nat Neurosci",
+  "year": 2022,
+  "volume": "25",
+  "issue": "2",
+  "page": "213-225",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Langfelder_2008": {
+  "doi": "10.1186/1471-2105-9-559",
+  "first_author": "Langfelder",
+  "given": "Peter",
+  "n_authors": 2,
+  "authors": [
+   [
+    "Langfelder",
+    "Peter"
+   ],
+   [
+    "Horvath",
+    "Steve"
+   ]
+  ],
+  "title": "WGCNA: an R package for weighted correlation network analysis",
+  "journal": "BMC Bioinformatics",
+  "journal_short": "BMC Bioinformatics",
+  "year": 2008,
+  "volume": "9",
+  "issue": "1",
+  "page": "559",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Langfelder_2011": {
+  "doi": "10.1371/journal.pcbi.1001057",
+  "first_author": "Langfelder",
+  "given": "Peter",
+  "n_authors": 4,
+  "authors": [
+   [
+    "Langfelder",
+    "Peter"
+   ],
+   [
+    "Luo",
+    "Rui"
+   ],
+   [
+    "Oldham",
+    "Michael C."
+   ],
+   [
+    "Horvath",
+    "Steve"
+   ]
+  ],
+  "title": "Is My Network Module Preserved and Reproducible?",
+  "journal": "PLoS Computational Biology",
+  "journal_short": "PLoS Comput Biol",
+  "year": 2011,
+  "volume": "7",
+  "issue": "1",
+  "page": "e1001057",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Young_2018": {
+  "doi": "10.1038/s41467-018-05892-0",
+  "first_author": "Young",
+  "given": "Alexandra L",
+  "n_authors": 380,
+  "authors": [
+   [
+    "Young",
+    "Alexandra L"
+   ],
+   [
+    "Marinescu",
+    "Razvan V"
+   ],
+   [
+    "Oxtoby",
+    "Neil P"
+   ],
+   [
+    "Bocchetta",
+    "Martina"
+   ],
+   [
+    "Yong",
+    "Keir"
+   ],
+   [
+    "Firth",
+    "Nicholas C"
+   ]
+  ],
+  "title": "Uncovering the heterogeneity and temporal complexity of neurodegenerative diseases with Subtype and Stage Inference",
+  "journal": "Nature Communications",
+  "journal_short": "Nat Commun",
+  "year": 2018,
+  "volume": "9",
+  "issue": "1",
+  "page": "4273",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Aksman_2021": {
+  "doi": "10.1016/j.softx.2021.100811",
+  "first_author": "Aksman",
+  "given": "Leon M.",
+  "n_authors": 8,
+  "authors": [
+   [
+    "Aksman",
+    "Leon M."
+   ],
+   [
+    "Wijeratne",
+    "Peter A."
+   ],
+   [
+    "Oxtoby",
+    "Neil P."
+   ],
+   [
+    "Eshaghi",
+    "Arman"
+   ],
+   [
+    "Shand",
+    "Cameron"
+   ],
+   [
+    "Altmann",
+    "Andre"
+   ]
+  ],
+  "title": "pySuStaIn: A Python implementation of the Subtype and Stage Inference algorithm",
+  "journal": "SoftwareX",
+  "journal_short": "SoftwareX",
+  "year": 2021,
+  "volume": "16",
+  "issue": null,
+  "page": "100811",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Young_NRN_2024": {
+  "doi": "10.1038/s41583-023-00779-6",
+  "first_author": "Young",
+  "given": "Alexandra L.",
+  "n_authors": 7,
+  "authors": [
+   [
+    "Young",
+    "Alexandra L."
+   ],
+   [
+    "Oxtoby",
+    "Neil P."
+   ],
+   [
+    "Garbarino",
+    "Sara"
+   ],
+   [
+    "Fox",
+    "Nick C."
+   ],
+   [
+    "Barkhof",
+    "Frederik"
+   ],
+   [
+    "Schott",
+    "Jonathan M."
+   ]
+  ],
+  "title": "Data-driven modelling of neurodegenerative disease progression: thinking outside the black box",
+  "journal": "Nature Reviews Neuroscience",
+  "journal_short": "Nat. Rev. Neurosci.",
+  "year": 2024,
+  "volume": "25",
+  "issue": "2",
+  "page": "111-130",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Vogel_2021": {
+  "doi": "10.1038/s41591-021-01309-6",
+  "first_author": "the Alzheimer’s Disease Neuroimaging Initiative",
+  "given": "",
+  "n_authors": 18,
+  "authors": [
+   [
+    "the Alzheimer’s Disease Neuroimaging Initiative",
+    ""
+   ],
+   [
+    "Vogel",
+    "Jacob W."
+   ],
+   [
+    "Young",
+    "Alexandra L."
+   ],
+   [
+    "Oxtoby",
+    "Neil P."
+   ],
+   [
+    "Smith",
+    "Ruben"
+   ],
+   [
+    "Ossenkoppele",
+    "Rik"
+   ]
+  ],
+  "title": "Four distinct trajectories of tau deposition identified in Alzheimer’s disease",
+  "journal": "Nature Medicine",
+  "journal_short": "Nat Med",
+  "year": 2021,
+  "volume": "27",
+  "issue": "5",
+  "page": "871-881",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Eshaghi_2021": {
+  "doi": "10.1038/s41467-021-22265-2",
+  "first_author": "Eshaghi",
+  "given": "Arman",
+  "n_authors": 12,
+  "authors": [
+   [
+    "Eshaghi",
+    "Arman"
+   ],
+   [
+    "Young",
+    "Alexandra L."
+   ],
+   [
+    "Wijeratne",
+    "Peter A."
+   ],
+   [
+    "Prados",
+    "Ferran"
+   ],
+   [
+    "Arnold",
+    "Douglas L."
+   ],
+   [
+    "Narayanan",
+    "Sridar"
+   ]
+  ],
+  "title": "Identifying multiple sclerosis subtypes using unsupervised machine learning and MRI data",
+  "journal": "Nature Communications",
+  "journal_short": "Nat Commun",
+  "year": 2021,
+  "volume": "12",
+  "issue": "1",
+  "page": "2078",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Young_COPD_2020": {
+  "doi": "10.1164/rccm.201908-1600oc",
+  "first_author": "Young",
+  "given": "Alexandra L.",
+  "n_authors": 9,
+  "authors": [
+   [
+    "Young",
+    "Alexandra L."
+   ],
+   [
+    "Bragman",
+    "Felix J. S."
+   ],
+   [
+    "Rangelov",
+    "Bojidar"
+   ],
+   [
+    "Han",
+    "MeiLan K."
+   ],
+   [
+    "Galbán",
+    "Craig J."
+   ],
+   [
+    "Lynch",
+    "David A."
+   ]
+  ],
+  "title": "Disease Progression Modeling in Chronic Obstructive Pulmonary Disease",
+  "journal": "American Journal of Respiratory and Critical Care Medicine",
+  "journal_short": "",
+  "year": 2020,
+  "volume": "201",
+  "issue": "3",
+  "page": "294-302",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Estarellas_2024": {
+  "doi": "10.1093/braincomms/fcae219",
+  "first_author": "Estarellas",
+  "given": "Mar",
+  "n_authors": 5,
+  "authors": [
+   [
+    "Estarellas",
+    "Mar"
+   ],
+   [
+    "Oxtoby",
+    "Neil P"
+   ],
+   [
+    "Schott",
+    "Jonathan M"
+   ],
+   [
+    "Alexander",
+    "Daniel C"
+   ],
+   [
+    "Young",
+    "Alexandra L"
+   ]
+  ],
+  "title": "Multimodal subtypes identified in Alzheimer’s Disease Neuroimaging Initiative participants by missing-data-enabled subtype and stage inference",
+  "journal": "Brain Communications",
+  "journal_short": "",
+  "year": 2024,
+  "volume": "6",
+  "issue": "4",
+  "page": "fcae219",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Chen_NeuroImage_2023": {
+  "doi": "10.1016/j.neuroimage.2023.120005",
+  "first_author": "Chen",
+  "given": "Hanyi",
+  "n_authors": 6,
+  "authors": [
+   [
+    "Chen",
+    "Hanyi"
+   ],
+   [
+    "Young",
+    "Alexandra"
+   ],
+   [
+    "Oxtoby",
+    "Neil P."
+   ],
+   [
+    "Barkhof",
+    "Frederik"
+   ],
+   [
+    "Alexander",
+    "Daniel C."
+   ],
+   [
+    "Altmann",
+    "Andre"
+   ]
+  ],
+  "title": "Transferability of Alzheimer's disease progression subtypes to an independent population cohort",
+  "journal": "NeuroImage",
+  "journal_short": "NeuroImage",
+  "year": 2023,
+  "volume": "271",
+  "issue": null,
+  "page": "120005",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Poulakis_NatCommun_2022": {
+  "doi": "10.1038/s41467-022-32202-6",
+  "first_author": "Poulakis",
+  "given": "Konstantinos",
+  "n_authors": 14,
+  "authors": [
+   [
+    "Poulakis",
+    "Konstantinos"
+   ],
+   [
+    "Pereira",
+    "Joana B."
+   ],
+   [
+    "Muehlboeck",
+    "J.-Sebastian"
+   ],
+   [
+    "Wahlund",
+    "Lars-Olof"
+   ],
+   [
+    "Smedby",
+    "Örjan"
+   ],
+   [
+    "Volpe",
+    "Giovanni"
+   ]
+  ],
+  "title": "Multi-cohort and longitudinal Bayesian clustering study of stage and subtype in Alzheimer’s disease",
+  "journal": "Nature Communications",
+  "journal_short": "Nat Commun",
+  "year": 2022,
+  "volume": "13",
+  "issue": "1",
+  "page": "4566",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Bethlehem_Nature_2022": {
+  "doi": "10.1038/s41586-022-04554-y",
+  "first_author": "Bethlehem",
+  "given": "R. A. I.",
+  "n_authors": 225,
+  "authors": [
+   [
+    "Bethlehem",
+    "R. A. I."
+   ],
+   [
+    "Seidlitz",
+    "J."
+   ],
+   [
+    "White",
+    "S. R."
+   ],
+   [
+    "Vogel",
+    "J. W."
+   ],
+   [
+    "Anderson",
+    "K. M."
+   ],
+   [
+    "Adamson",
+    "C."
+   ]
+  ],
+  "title": "Brain charts for the human lifespan",
+  "journal": "Nature",
+  "journal_short": "Nature",
+  "year": 2022,
+  "volume": "604",
+  "issue": "7906",
+  "page": "525-533",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "AlfaroAlmagro_2021": {
+  "doi": "10.1016/j.neuroimage.2020.117002",
+  "first_author": "Alfaro-Almagro",
+  "given": "Fidel",
+  "n_authors": 8,
+  "authors": [
+   [
+    "Alfaro-Almagro",
+    "Fidel"
+   ],
+   [
+    "McCarthy",
+    "Paul"
+   ],
+   [
+    "Afyouni",
+    "Soroosh"
+   ],
+   [
+    "Andersson",
+    "Jesper L.R."
+   ],
+   [
+    "Bastiani",
+    "Matteo"
+   ],
+   [
+    "Miller",
+    "Karla L."
+   ]
+  ],
+  "title": "Confound modelling in UK Biobank brain imaging",
+  "journal": "NeuroImage",
+  "journal_short": "NeuroImage",
+  "year": 2021,
+  "volume": "224",
+  "issue": null,
+  "page": "117002",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Hu_NeuroImage_2023": {
+  "doi": "10.1016/j.neuroimage.2023.120125",
+  "first_author": "Hu",
+  "given": "Fengling",
+  "n_authors": 11,
+  "authors": [
+   [
+    "Hu",
+    "Fengling"
+   ],
+   [
+    "Chen",
+    "Andrew A."
+   ],
+   [
+    "Horng",
+    "Hannah"
+   ],
+   [
+    "Bashyam",
+    "Vishnu"
+   ],
+   [
+    "Davatzikos",
+    "Christos"
+   ],
+   [
+    "Alexander-Bloch",
+    "Aaron"
+   ]
+  ],
+  "title": "Image harmonization: A review of statistical and deep learning methods for removing batch effects and evaluation metrics for effective harmonization",
+  "journal": "NeuroImage",
+  "journal_short": "NeuroImage",
+  "year": 2023,
+  "volume": "274",
+  "issue": null,
+  "page": "120125",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Bycroft_2018": {
+  "doi": "10.1038/s41586-018-0579-z",
+  "first_author": "Bycroft",
+  "given": "Clare",
+  "n_authors": 19,
+  "authors": [
+   [
+    "Bycroft",
+    "Clare"
+   ],
+   [
+    "Freeman",
+    "Colin"
+   ],
+   [
+    "Petkova",
+    "Desislava"
+   ],
+   [
+    "Band",
+    "Gavin"
+   ],
+   [
+    "Elliott",
+    "Lloyd T."
+   ],
+   [
+    "Sharp",
+    "Kevin"
+   ]
+  ],
+  "title": "The UK Biobank resource with deep phenotyping and genomic data",
+  "journal": "Nature",
+  "journal_short": "Nature",
+  "year": 2018,
+  "volume": "562",
+  "issue": "7726",
+  "page": "203-209",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Littlejohns_2020": {
+  "doi": "10.1038/s41467-020-15948-9",
+  "first_author": "Littlejohns",
+  "given": "Thomas J.",
+  "n_authors": 24,
+  "authors": [
+   [
+    "Littlejohns",
+    "Thomas J."
+   ],
+   [
+    "Holliday",
+    "Jo"
+   ],
+   [
+    "Gibson",
+    "Lorna M."
+   ],
+   [
+    "Garratt",
+    "Steve"
+   ],
+   [
+    "Oesingmann",
+    "Niels"
+   ],
+   [
+    "Alfaro-Almagro",
+    "Fidel"
+   ]
+  ],
+  "title": "The UK Biobank imaging enhancement of 100,000 participants: rationale, data collection, management and future directions",
+  "journal": "Nature Communications",
+  "journal_short": "Nat Commun",
+  "year": 2020,
+  "volume": "11",
+  "issue": "1",
+  "page": "2624",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "RaisiEstabragh_CMR_2021": {
+  "doi": "10.1093/ehjci/jeaa297",
+  "first_author": "Raisi-Estabragh",
+  "given": "Zahra",
+  "n_authors": 4,
+  "authors": [
+   [
+    "Raisi-Estabragh",
+    "Zahra"
+   ],
+   [
+    "Harvey",
+    "Nicholas C"
+   ],
+   [
+    "Neubauer",
+    "Stefan"
+   ],
+   [
+    "Petersen",
+    "Steffen E"
+   ]
+  ],
+  "title": "Cardiovascular magnetic resonance imaging in the UK Biobank: a major international health research resource",
+  "journal": "European Heart Journal - Cardiovascular Imaging",
+  "journal_short": "",
+  "year": 2021,
+  "volume": "22",
+  "issue": "3",
+  "page": "251-258",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Fry_2017": {
+  "doi": "10.1093/aje/kwx246",
+  "first_author": "Fry",
+  "given": "Anna",
+  "n_authors": 8,
+  "authors": [
+   [
+    "Fry",
+    "Anna"
+   ],
+   [
+    "Littlejohns",
+    "Thomas J"
+   ],
+   [
+    "Sudlow",
+    "Cathie"
+   ],
+   [
+    "Doherty",
+    "Nicola"
+   ],
+   [
+    "Adamska",
+    "Ligia"
+   ],
+   [
+    "Sprosen",
+    "Tim"
+   ]
+  ],
+  "title": "Comparison of Sociodemographic and Health-Related Characteristics of UK Biobank Participants With Those of the General Population",
+  "journal": "American Journal of Epidemiology",
+  "journal_short": "",
+  "year": 2017,
+  "volume": "186",
+  "issue": "9",
+  "page": "1026-1034",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Lyall_2022": {
+  "doi": "10.1093/braincomms/fcac119",
+  "first_author": "Lyall",
+  "given": "Donald M.",
+  "n_authors": 10,
+  "authors": [
+   [
+    "Lyall",
+    "Donald M."
+   ],
+   [
+    "Quinn",
+    "Terry"
+   ],
+   [
+    "Lyall",
+    "Laura M."
+   ],
+   [
+    "Ward",
+    "Joey"
+   ],
+   [
+    "Anderson",
+    "Jana J."
+   ],
+   [
+    "Smith",
+    "Daniel J."
+   ]
+  ],
+  "title": "Quantifying bias in psychological and physical health in the UK Biobank imaging sub-sample",
+  "journal": "Brain Communications",
+  "journal_short": "",
+  "year": 2022,
+  "volume": "4",
+  "issue": "3",
+  "page": "fcac119",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Schoeler_NHB_2023": {
+  "doi": "10.1038/s41562-023-01579-9",
+  "first_author": "Schoeler",
+  "given": "Tabea",
+  "n_authors": 6,
+  "authors": [
+   [
+    "Schoeler",
+    "Tabea"
+   ],
+   [
+    "Speed",
+    "Doug"
+   ],
+   [
+    "Porcu",
+    "Eleonora"
+   ],
+   [
+    "Pirastu",
+    "Nicola"
+   ],
+   [
+    "Pingault",
+    "Jean-Baptiste"
+   ],
+   [
+    "Kutalik",
+    "Zoltán"
+   ]
+  ],
+  "title": "Participation bias in the UK Biobank distorts genetic associations and downstream analyses",
+  "journal": "Nature Human Behaviour",
+  "journal_short": "Nat Hum Behav",
+  "year": 2023,
+  "volume": "7",
+  "issue": "7",
+  "page": "1216-1227",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "vanAlten_IJE_2024": {
+  "doi": "10.1093/ije/dyae054",
+  "first_author": "van Alten",
+  "given": "Sjoerd",
+  "n_authors": 5,
+  "authors": [
+   [
+    "van Alten",
+    "Sjoerd"
+   ],
+   [
+    "Domingue",
+    "Benjamin W"
+   ],
+   [
+    "Faul",
+    "Jessica"
+   ],
+   [
+    "Galama",
+    "Titus"
+   ],
+   [
+    "Marees",
+    "Andries T"
+   ]
+  ],
+  "title": "Reweighting UK Biobank corrects for pervasive selection bias due to volunteering",
+  "journal": "International Journal of Epidemiology",
+  "journal_short": "",
+  "year": 2024,
+  "volume": "53",
+  "issue": "3",
+  "page": "dyae054",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "FawnsRitchie_2020": {
+  "doi": "10.1371/journal.pone.0231627",
+  "first_author": "Fawns-Ritchie",
+  "given": "Chloe",
+  "n_authors": 2,
+  "authors": [
+   [
+    "Fawns-Ritchie",
+    "Chloe"
+   ],
+   [
+    "Deary",
+    "Ian J."
+   ]
+  ],
+  "title": "Reliability and validity of the UK Biobank cognitive tests",
+  "journal": "PLOS ONE",
+  "journal_short": "PLoS ONE",
+  "year": 2020,
+  "volume": "15",
+  "issue": "4",
+  "page": "e0231627",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Acosta_NatMed_2022": {
+  "doi": "10.1038/s41591-022-01981-2",
+  "first_author": "Acosta",
+  "given": "Julián N.",
+  "n_authors": 4,
+  "authors": [
+   [
+    "Acosta",
+    "Julián N."
+   ],
+   [
+    "Falcone",
+    "Guido J."
+   ],
+   [
+    "Rajpurkar",
+    "Pranav"
+   ],
+   [
+    "Topol",
+    "Eric J."
+   ]
+  ],
+  "title": "Multimodal biomedical AI",
+  "journal": "Nature Medicine",
+  "journal_short": "Nat Med",
+  "year": 2022,
+  "volume": "28",
+  "issue": "9",
+  "page": "1773-1784",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Bai_NatMed_2020": {
+  "doi": "10.1038/s41591-020-1009-y",
+  "first_author": "Bai",
+  "given": "Wenjia",
+  "n_authors": 19,
+  "authors": [
+   [
+    "Bai",
+    "Wenjia"
+   ],
+   [
+    "Suzuki",
+    "Hideaki"
+   ],
+   [
+    "Huang",
+    "Jian"
+   ],
+   [
+    "Francis",
+    "Catherine"
+   ],
+   [
+    "Wang",
+    "Shuo"
+   ],
+   [
+    "Tarroni",
+    "Giacomo"
+   ]
+  ],
+  "title": "A population-based phenome-wide association study of cardiac and aortic structure and function",
+  "journal": "Nature Medicine",
+  "journal_short": "Nat Med",
+  "year": 2020,
+  "volume": "26",
+  "issue": "10",
+  "page": "1654-1662",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Lee_AGReMA_2021": {
+  "doi": "10.1001/jama.2021.14075",
+  "first_author": "Lee",
+  "given": "Hopin",
+  "n_authors": 22,
+  "authors": [
+   [
+    "Lee",
+    "Hopin"
+   ],
+   [
+    "Cashin",
+    "Aidan G."
+   ],
+   [
+    "Lamb",
+    "Sarah E."
+   ],
+   [
+    "Hopewell",
+    "Sally"
+   ],
+   [
+    "Vansteelandt",
+    "Stijn"
+   ],
+   [
+    "VanderWeele",
+    "Tyler J."
+   ]
+  ],
+  "title": "A Guideline for Reporting Mediation Analyses of Randomized Trials and Observational Studies",
+  "journal": "JAMA",
+  "journal_short": "JAMA",
+  "year": 2021,
+  "volume": "326",
+  "issue": "11",
+  "page": "1045",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Rijnhart_2021": {
+  "doi": "10.1186/s12874-021-01426-3",
+  "first_author": "Rijnhart",
+  "given": "Judith J. M.",
+  "n_authors": 6,
+  "authors": [
+   [
+    "Rijnhart",
+    "Judith J. M."
+   ],
+   [
+    "Lamp",
+    "Sophia J."
+   ],
+   [
+    "Valente",
+    "Matthew J."
+   ],
+   [
+    "MacKinnon",
+    "David P."
+   ],
+   [
+    "Twisk",
+    "Jos W. R."
+   ],
+   [
+    "Heymans",
+    "Martijn W."
+   ]
+  ],
+  "title": "Mediation analysis methods used in observational research: a scoping review and recommendations",
+  "journal": "BMC Medical Research Methodology",
+  "journal_short": "BMC Med Res Methodol",
+  "year": 2021,
+  "volume": "21",
+  "issue": "1",
+  "page": "226",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Georgeson_2025": {
+  "doi": "10.1037/met0000628",
+  "first_author": "Georgeson",
+  "given": "A. R.",
+  "n_authors": 3,
+  "authors": [
+   [
+    "Georgeson",
+    "A. R."
+   ],
+   [
+    "Alvarez-Bartolo",
+    "Diana"
+   ],
+   [
+    "MacKinnon",
+    "David P."
+   ]
+  ],
+  "title": "A sensitivity analysis for temporal bias in cross-sectional mediation.",
+  "journal": "Psychological Methods",
+  "journal_short": "Psychological Methods",
+  "year": 2025,
+  "volume": "30",
+  "issue": "6",
+  "page": "1326-1344",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Maxwell_2007": {
+  "doi": "10.1037/1082-989x.12.1.23",
+  "first_author": "Maxwell",
+  "given": "Scott E.",
+  "n_authors": 2,
+  "authors": [
+   [
+    "Maxwell",
+    "Scott E."
+   ],
+   [
+    "Cole",
+    "David A."
+   ]
+  ],
+  "title": "Bias in cross-sectional analyses of longitudinal mediation.",
+  "journal": "Psychological Methods",
+  "journal_short": "Psychological Methods",
+  "year": 2007,
+  "volume": "12",
+  "issue": "1",
+  "page": "23-44",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Lee_TARMOS_2021": {
+  "doi": "10.1016/j.jclinepi.2021.01.008",
+  "first_author": "Lee",
+  "given": "Katherine J.",
+  "n_authors": 8,
+  "authors": [
+   [
+    "Lee",
+    "Katherine J."
+   ],
+   [
+    "Tilling",
+    "Kate M."
+   ],
+   [
+    "Cornish",
+    "Rosie P."
+   ],
+   [
+    "Little",
+    "Roderick J.A."
+   ],
+   [
+    "Bell",
+    "Melanie L."
+   ],
+   [
+    "Goetghebeur",
+    "Els"
+   ]
+  ],
+  "title": "Framework for the treatment and reporting of missing data in observational studies: The Treatment And Reporting of Missing data in Observational Studies framework",
+  "journal": "Journal of Clinical Epidemiology",
+  "journal_short": "Journal of Clinical Epidemiology",
+  "year": 2021,
+  "volume": "134",
+  "issue": null,
+  "page": "79-88",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Ross_2020": {
+  "doi": "10.1093/aje/kwaa124",
+  "first_author": "Ross",
+  "given": "Rachael K",
+  "n_authors": 3,
+  "authors": [
+   [
+    "Ross",
+    "Rachael K"
+   ],
+   [
+    "Breskin",
+    "Alexander"
+   ],
+   [
+    "Westreich",
+    "Daniel"
+   ]
+  ],
+  "title": "When Is a Complete-Case Approach to Missing Data Valid? The Importance of Effect-Measure Modification",
+  "journal": "American Journal of Epidemiology",
+  "journal_short": "",
+  "year": 2020,
+  "volume": "189",
+  "issue": "12",
+  "page": "1583-1589",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Hernan_2023": {
+  "doi": "10.1136/bmj.p1135",
+  "first_author": "Hernán",
+  "given": "Miguel A",
+  "n_authors": 2,
+  "authors": [
+   [
+    "Hernán",
+    "Miguel A"
+   ],
+   [
+    "Monge",
+    "Susana"
+   ]
+  ],
+  "title": "Selection bias due to conditioning on a collider",
+  "journal": "BMJ",
+  "journal_short": "BMJ",
+  "year": 2023,
+  "volume": null,
+  "issue": null,
+  "page": "p1135",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Riley_2020": {
+  "doi": "10.1136/bmj.m441",
+  "first_author": "Riley",
+  "given": "Richard D",
+  "n_authors": 9,
+  "authors": [
+   [
+    "Riley",
+    "Richard D"
+   ],
+   [
+    "Ensor",
+    "Joie"
+   ],
+   [
+    "Snell",
+    "Kym I E"
+   ],
+   [
+    "Harrell",
+    "Frank E"
+   ],
+   [
+    "Martin",
+    "Glen P"
+   ],
+   [
+    "Reitsma",
+    "Johannes B"
+   ]
+  ],
+  "title": "Calculating the sample size required for developing a clinical prediction model",
+  "journal": "BMJ",
+  "journal_short": "BMJ",
+  "year": 2020,
+  "volume": null,
+  "issue": null,
+  "page": "m441",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Collins_2024_part1": {
+  "doi": "10.1136/bmj-2023-074819",
+  "first_author": "Collins",
+  "given": "Gary S",
+  "n_authors": 13,
+  "authors": [
+   [
+    "Collins",
+    "Gary S"
+   ],
+   [
+    "Dhiman",
+    "Paula"
+   ],
+   [
+    "Ma",
+    "Jie"
+   ],
+   [
+    "Schlussel",
+    "Michael M"
+   ],
+   [
+    "Archer",
+    "Lucinda"
+   ],
+   [
+    "Van Calster",
+    "Ben"
+   ]
+  ],
+  "title": "Evaluation of clinical prediction models (part 1): from development to external validation",
+  "journal": "BMJ",
+  "journal_short": "BMJ",
+  "year": 2024,
+  "volume": "384",
+  "issue": null,
+  "page": "e074819",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "TRIPODAI_2024": {
+  "doi": "10.1136/bmj-2023-078378",
+  "first_author": "Collins",
+  "given": "Gary S",
+  "n_authors": 34,
+  "authors": [
+   [
+    "Collins",
+    "Gary S"
+   ],
+   [
+    "Moons",
+    "Karel G M"
+   ],
+   [
+    "Dhiman",
+    "Paula"
+   ],
+   [
+    "Riley",
+    "Richard D"
+   ],
+   [
+    "Beam",
+    "Andrew L"
+   ],
+   [
+    "Van Calster",
+    "Ben"
+   ]
+  ],
+  "title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+  "journal": "BMJ",
+  "journal_short": "BMJ",
+  "year": 2024,
+  "volume": "385",
+  "issue": null,
+  "page": "e078378",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "PROBASTAI_2025": {
+  "doi": "10.1136/bmj-2024-082505",
+  "first_author": "Moons",
+  "given": "Karel G M",
+  "n_authors": 28,
+  "authors": [
+   [
+    "Moons",
+    "Karel G M"
+   ],
+   [
+    "Damen",
+    "Johanna A A"
+   ],
+   [
+    "Kaul",
+    "Tabea"
+   ],
+   [
+    "Hooft",
+    "Lotty"
+   ],
+   [
+    "Andaur Navarro",
+    "Constanza"
+   ],
+   [
+    "Dhiman",
+    "Paula"
+   ]
+  ],
+  "title": "PROBAST+AI: an updated quality, risk of bias, and applicability assessment tool for prediction models using regression or artificial intelligence methods",
+  "journal": "BMJ",
+  "journal_short": "BMJ",
+  "year": 2025,
+  "volume": "388",
+  "issue": null,
+  "page": "e082505",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "VanCalster_2019": {
+  "doi": "10.1186/s12916-019-1466-7",
+  "first_author": "On behalf of Topic Group ‘Evaluating diagnostic tests and prediction models’ of the STRATOS initiative",
+  "given": "",
+  "n_authors": 6,
+  "authors": [
+   [
+    "On behalf of Topic Group ‘Evaluating diagnostic tests and prediction models’ of the STRATOS initiative",
+    ""
+   ],
+   [
+    "Van Calster",
+    "Ben"
+   ],
+   [
+    "McLernon",
+    "David J."
+   ],
+   [
+    "van Smeden",
+    "Maarten"
+   ],
+   [
+    "Wynants",
+    "Laure"
+   ],
+   [
+    "Steyerberg",
+    "Ewout W."
+   ]
+  ],
+  "title": "Calibration: the Achilles heel of predictive analytics",
+  "journal": "BMC Medicine",
+  "journal_short": "BMC Med",
+  "year": 2019,
+  "volume": "17",
+  "issue": "1",
+  "page": "230",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Vickers_2021": {
+  "doi": "10.1016/j.spinee.2021.02.024",
+  "first_author": "Vickers",
+  "given": "Andrew J.",
+  "n_authors": 2,
+  "authors": [
+   [
+    "Vickers",
+    "Andrew J."
+   ],
+   [
+    "Holland",
+    "Ford"
+   ]
+  ],
+  "title": "Decision curve analysis to evaluate the clinical benefit of prediction models",
+  "journal": "The Spine Journal",
+  "journal_short": "The Spine Journal",
+  "year": 2021,
+  "volume": "21",
+  "issue": "10",
+  "page": "1643-1648",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Heagerty_2000": {
+  "doi": "10.1111/j.0006-341x.2000.00337.x",
+  "first_author": "Heagerty",
+  "given": "Patrick J.",
+  "n_authors": 3,
+  "authors": [
+   [
+    "Heagerty",
+    "Patrick J."
+   ],
+   [
+    "Lumley",
+    "Thomas"
+   ],
+   [
+    "Pepe",
+    "Margaret S."
+   ]
+  ],
+  "title": "Time‐Dependent ROC Curves for Censored Survival Data and a Diagnostic Marker",
+  "journal": "Biometrics",
+  "journal_short": "Biometrics",
+  "year": 2000,
+  "volume": "56",
+  "issue": "2",
+  "page": "337-344",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Graf_1999": {
+  "doi": "10.1002/(sici)1097-0258(19990915/30)18:17/18<2529::aid-sim274>3.0.co;2-5",
+  "first_author": "Graf",
+  "given": "Erika",
+  "n_authors": 4,
+  "authors": [
+   [
+    "Graf",
+    "Erika"
+   ],
+   [
+    "Schmoor",
+    "Claudia"
+   ],
+   [
+    "Sauerbrei",
+    "Willi"
+   ],
+   [
+    "Schumacher",
+    "Martin"
+   ]
+  ],
+  "title": "Assessment and comparison of prognostic classification schemes for survival data",
+  "journal": "Statistics in Medicine",
+  "journal_short": "Statist. Med.",
+  "year": 1999,
+  "volume": "18",
+  "issue": "17-18",
+  "page": "2529-2545",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Uno_2011": {
+  "doi": "10.1002/sim.4154",
+  "first_author": "Uno",
+  "given": "Hajime",
+  "n_authors": 5,
+  "authors": [
+   [
+    "Uno",
+    "Hajime"
+   ],
+   [
+    "Cai",
+    "Tianxi"
+   ],
+   [
+    "Pencina",
+    "Michael J."
+   ],
+   [
+    "D'Agostino",
+    "Ralph B."
+   ],
+   [
+    "Wei",
+    "L. J."
+   ]
+  ],
+  "title": "On the C‐statistics for evaluating overall adequacy of risk prediction procedures with censored survival data",
+  "journal": "Statistics in Medicine",
+  "journal_short": "Statistics in Medicine",
+  "year": 2011,
+  "volume": "30",
+  "issue": "10",
+  "page": "1105-1117",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Varma_2006": {
+  "doi": "10.1186/1471-2105-7-91",
+  "first_author": "Varma",
+  "given": "Sudhir",
+  "n_authors": 2,
+  "authors": [
+   [
+    "Varma",
+    "Sudhir"
+   ],
+   [
+    "Simon",
+    "Richard"
+   ]
+  ],
+  "title": "Bias in error estimation when using cross-validation for model selection",
+  "journal": "BMC Bioinformatics",
+  "journal_short": "BMC Bioinformatics",
+  "year": 2006,
+  "volume": "7",
+  "issue": "1",
+  "page": "91",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Rosseel_2012": {
+  "doi": "10.18637/jss.v048.i02",
+  "first_author": "Rosseel",
+  "given": "Yves",
+  "n_authors": 1,
+  "authors": [
+   [
+    "Rosseel",
+    "Yves"
+   ]
+  ],
+  "title": "<b>lavaan</b>\n                    : An\n                    <i>R</i>\n                    Package for Structural Equation Modeling",
+  "journal": "Journal of Statistical Software",
+  "journal_short": "J. Stat. Soft.",
+  "year": 2012,
+  "volume": "48",
+  "issue": "2",
+  "page": null,
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "BH_1995": {
+  "doi": "10.1111/j.2517-6161.1995.tb02031.x",
+  "first_author": "Benjamini",
+  "given": "Yoav",
+  "n_authors": 2,
+  "authors": [
+   [
+    "Benjamini",
+    "Yoav"
+   ],
+   [
+    "Hochberg",
+    "Yosef"
+   ]
+  ],
+  "title": "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing",
+  "journal": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+  "journal_short": "",
+  "year": 1995,
+  "volume": "57",
+  "issue": "1",
+  "page": "289-300",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Scheitz_LancetNeurol_2018": {
+  "doi": "10.1016/s1474-4422(18)30336-3",
+  "first_author": "Scheitz",
+  "given": "Jan F",
+  "n_authors": 5,
+  "authors": [
+   [
+    "Scheitz",
+    "Jan F"
+   ],
+   [
+    "Nolte",
+    "Christian H"
+   ],
+   [
+    "Doehner",
+    "Wolfram"
+   ],
+   [
+    "Hachinski",
+    "Vladimir"
+   ],
+   [
+    "Endres",
+    "Matthias"
+   ]
+  ],
+  "title": "Stroke–heart syndrome: clinical presentation and underlying mechanisms",
+  "journal": "The Lancet Neurology",
+  "journal_short": "The Lancet Neurology",
+  "year": 2018,
+  "volume": "17",
+  "issue": "12",
+  "page": "1109-1120",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Simats_HBaxis_2024": {
+  "doi": "10.1093/cvr/cvae185",
+  "first_author": "Simats",
+  "given": "Alba",
+  "n_authors": 3,
+  "authors": [
+   [
+    "Simats",
+    "Alba"
+   ],
+   [
+    "Sager",
+    "Hendrik B"
+   ],
+   [
+    "Liesz",
+    "Arthur"
+   ]
+  ],
+  "title": "Heart–brain axis in health and disease: role of innate and adaptive immunity",
+  "journal": "Cardiovascular Research",
+  "journal_short": "",
+  "year": 2025,
+  "volume": "120",
+  "issue": "18",
+  "page": "2325-2335",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "NatRevNeurosci_brainheart_2025": {
+  "doi": "10.1038/s41583-025-01000-6",
+  "first_author": "van Weperen",
+  "given": "Valerie Y. H.",
+  "n_authors": 2,
+  "authors": [
+   [
+    "van Weperen",
+    "Valerie Y. H."
+   ],
+   [
+    "Vaseghi",
+    "Marmar"
+   ]
+  ],
+  "title": "The brain–heart axis: effects of cardiovascular disease on the CNS and opportunities for central neuromodulation",
+  "journal": "Nature Reviews Neuroscience",
+  "journal_short": "Nat. Rev. Neurosci.",
+  "year": 2026,
+  "volume": "27",
+  "issue": "3",
+  "page": "159-177",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Valenza_NatRevCardiol": {
+  "doi": "10.1038/s41569-025-01140-3",
+  "first_author": "Valenza",
+  "given": "Gaetano",
+  "n_authors": 3,
+  "authors": [
+   [
+    "Valenza",
+    "Gaetano"
+   ],
+   [
+    "Matić",
+    "Zoran"
+   ],
+   [
+    "Catrambone",
+    "Vincenzo"
+   ]
+  ],
+  "title": "The brain–heart axis: integrative cooperation of neural, mechanical and biochemical pathways",
+  "journal": "Nature Reviews Cardiology",
+  "journal_short": "Nat Rev Cardiol",
+  "year": 2025,
+  "volume": "22",
+  "issue": "8",
+  "page": "537-550",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Mitchell_Brain_2011": {
+  "doi": "10.1093/brain/awr253",
+  "first_author": "Mitchell",
+  "given": "Gary F.",
+  "n_authors": 11,
+  "authors": [
+   [
+    "Mitchell",
+    "Gary F."
+   ],
+   [
+    "van Buchem",
+    "Mark A."
+   ],
+   [
+    "Sigurdsson",
+    "Sigurdur"
+   ],
+   [
+    "Gotal",
+    "John D."
+   ],
+   [
+    "Jonsdottir",
+    "Maria K."
+   ],
+   [
+    "Kjartansson",
+    "Ólafur"
+   ]
+  ],
+  "title": "Arterial stiffness, pressure and flow pulsatility and brain structure and function: the Age, Gene/Environment Susceptibility – Reykjavik Study",
+  "journal": "Brain",
+  "journal_short": "",
+  "year": 2011,
+  "volume": "134",
+  "issue": "11",
+  "page": "3398-3407",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Tardo_JACC_2025": {
+  "doi": "10.1016/j.jacc.2025.09.1602",
+  "first_author": "Tardo",
+  "given": "Daniel T.",
+  "n_authors": 5,
+  "authors": [
+   [
+    "Tardo",
+    "Daniel T."
+   ],
+   [
+    "Cortes-Canteli",
+    "Marta"
+   ],
+   [
+    "Fuster",
+    "Valentin"
+   ],
+   [
+    "Sachdev",
+    "Perminder S."
+   ],
+   [
+    "Kovacic",
+    "Jason C."
+   ]
+  ],
+  "title": "The Heart-Brain-Metabolism Axis in Cardiovascular and Neurologic Disease",
+  "journal": "JACC",
+  "journal_short": "JACC",
+  "year": 2025,
+  "volume": "86",
+  "issue": "25",
+  "page": "2663-2686",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Harshfield_JAMA_2020": {
+  "doi": "10.1001/jama.2020.23068",
+  "first_author": "Harshfield",
+  "given": "Eric L.",
+  "n_authors": 32,
+  "authors": [
+   [
+    "Harshfield",
+    "Eric L."
+   ],
+   [
+    "Pennells",
+    "Lisa"
+   ],
+   [
+    "Schwartz",
+    "Joseph E."
+   ],
+   [
+    "Willeit",
+    "Peter"
+   ],
+   [
+    "Kaptoge",
+    "Stephen"
+   ],
+   [
+    "Bell",
+    "Steven"
+   ]
+  ],
+  "title": "Association Between Depressive Symptoms and Incident Cardiovascular Diseases",
+  "journal": "JAMA",
+  "journal_short": "JAMA",
+  "year": 2020,
+  "volume": "324",
+  "issue": "23",
+  "page": "2396",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Haque_HBaxis_2025": {
+  "doi": "10.1152/physiol.00020.2025",
+  "first_author": "Haque",
+  "given": "Shagufta",
+  "n_authors": 2,
+  "authors": [
+   [
+    "Haque",
+    "Shagufta"
+   ],
+   [
+    "Dutta",
+    "Partha"
+   ]
+  ],
+  "title": "The Heart-Brain Axis in the Context of Cardiovascular Disease",
+  "journal": "Physiology",
+  "journal_short": "Physiology",
+  "year": 2026,
+  "volume": "41",
+  "issue": "2",
+  "page": "147-158",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Rosano_PWV_WMH_2013": {
+  "doi": "10.1161/hypertensionaha.112.198069",
+  "first_author": "Rosano",
+  "given": "Caterina",
+  "n_authors": 10,
+  "authors": [
+   [
+    "Rosano",
+    "Caterina"
+   ],
+   [
+    "Watson",
+    "Nora"
+   ],
+   [
+    "Chang",
+    "YueFang"
+   ],
+   [
+    "Newman",
+    "Anne B."
+   ],
+   [
+    "Aizenstein",
+    "Howard J."
+   ],
+   [
+    "Du",
+    "Yan"
+   ]
+  ],
+  "title": "Aortic Pulse Wave Velocity Predicts Focal White Matter Hyperintensities in a Biracial Cohort of Older Adults",
+  "journal": "Hypertension",
+  "journal_short": "Hypertension",
+  "year": 2013,
+  "volume": "61",
+  "issue": "1",
+  "page": "160-165",
+  "type": "journal-article",
+  "how": "query"
+ },
+ "Visseren_ESC_2021": {
+  "doi": "10.1093/eurheartj/ehab484",
+  "first_author": "Visseren",
+  "given": "Frank L J",
+  "n_authors": 133,
+  "authors": [
+   [
+    "Visseren",
+    "Frank L J"
+   ],
+   [
+    "Mach",
+    "François"
+   ],
+   [
+    "Smulders",
+    "Yvo M"
+   ],
+   [
+    "Carballo",
+    "David"
+   ],
+   [
+    "Koskinas",
+    "Konstantinos C"
+   ],
+   [
+    "Bäck",
+    "Maria"
+   ]
+  ],
+  "title": "2021 ESC Guidelines on cardiovascular disease prevention in clinical practice",
+  "journal": "European Heart Journal",
+  "journal_short": "Eur. Heart J.",
+  "year": 2021,
+  "volume": "42",
+  "issue": "34",
+  "page": "3227-3337",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Arnett_ACCAHA_2019": {
+  "doi": "10.1161/cir.0000000000000678",
+  "first_author": "Arnett",
+  "given": "Donna K.",
+  "n_authors": 18,
+  "authors": [
+   [
+    "Arnett",
+    "Donna K."
+   ],
+   [
+    "Blumenthal",
+    "Roger S."
+   ],
+   [
+    "Albert",
+    "Michelle A."
+   ],
+   [
+    "Buroker",
+    "Andrew B."
+   ],
+   [
+    "Goldberger",
+    "Zachary D."
+   ],
+   [
+    "Hahn",
+    "Ellen J."
+   ]
+  ],
+  "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines",
+  "journal": "Circulation",
+  "journal_short": "Circulation",
+  "year": 2019,
+  "volume": "140",
+  "issue": "11",
+  "page": "e596-e646",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Lane_LancetNeurol_2019": {
+  "doi": "10.1016/s1474-4422(19)30228-5",
+  "first_author": "Lane",
+  "given": "Christopher A",
+  "n_authors": 25,
+  "authors": [
+   [
+    "Lane",
+    "Christopher A"
+   ],
+   [
+    "Barnes",
+    "Josephine"
+   ],
+   [
+    "Nicholas",
+    "Jennifer M"
+   ],
+   [
+    "Sudre",
+    "Carole H"
+   ],
+   [
+    "Cash",
+    "David M"
+   ],
+   [
+    "Parker",
+    "Thomas D"
+   ]
+  ],
+  "title": "Associations between blood pressure across adulthood and late-life brain structure and pathology in the neuroscience substudy of the 1946 British birth cohort (Insight 46): an epidemiological study",
+  "journal": "The Lancet Neurology",
+  "journal_short": "Lancet Neurol.",
+  "year": 2019,
+  "volume": "18",
+  "issue": "10",
+  "page": "942-952",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "Conen_JACC_2019": {
+  "doi": "10.1016/j.jacc.2018.12.039",
+  "first_author": "Conen",
+  "given": "David",
+  "n_authors": 128,
+  "authors": [
+   [
+    "Conen",
+    "David"
+   ],
+   [
+    "Rodondi",
+    "Nicolas"
+   ],
+   [
+    "Müller",
+    "Andreas"
+   ],
+   [
+    "Beer",
+    "Juerg H."
+   ],
+   [
+    "Ammann",
+    "Peter"
+   ],
+   [
+    "Moschovitis",
+    "Giorgio"
+   ]
+  ],
+  "title": "Relationships of Overt and Silent Brain Lesions With Cognitive Function in Patients With Atrial Fibrillation",
+  "journal": "Journal of the American College of Cardiology",
+  "journal_short": "J. Am. Coll. Cardiol.",
+  "year": 2019,
+  "volume": "73",
+  "issue": "9",
+  "page": "989-999",
+  "type": "journal-article",
+  "how": "doi"
+ },
+ "SCORE2OP_2021": {
+  "authors": [
+   [
+    "",
+    ""
+   ],
+   [
+    "de Vries",
+    "Tamar I"
+   ],
+   [
+    "Cooney",
+    "Marie Therese"
+   ],
+   [
+    "Selmer",
+    "Randi M"
+   ],
+   [
+    "Hageman",
+    "Steven H J"
+   ],
+   [
+    "Pennells",
+    "Lisa A"
+   ],
+   [
+    "Wood",
+    "Angela"
+   ],
+   [
+    "Kaptoge",
+    "Stephen"
+   ]
+  ],
+  "doi": "10.1093/eurheartj/ehab312",
+  "first_author": "",
+  "given": "",
+  "how": "doi",
+  "issue": "25",
+  "journal": "European Heart Journal",
+  "journal_short": "European Heart Journal",
+  "n_authors": 35,
+  "page": "2455-2467",
+  "title": "SCORE2-OP risk prediction algorithms: estimating incident cardiovascular event risk in older persons in four geographical risk regions",
+  "type": "journal-article",
+  "volume": "42",
+  "year": 2021
+ },
+ "Vickers_2006": {
+  "authors": [
+   [
+    "Vickers",
+    "Andrew J."
+   ],
+   [
+    "Elkin",
+    "Elena B."
+   ]
+  ],
+  "doi": "10.1177/0272989x06295361",
+  "first_author": "Vickers",
+  "given": "Andrew J.",
+  "how": "doi",
+  "issue": "6",
+  "journal": "Medical Decision Making",
+  "journal_short": "Med Decis Making",
+  "n_authors": 2,
+  "page": "565-574",
+  "title": "Decision Curve Analysis: A Novel Method for Evaluating Prediction Models",
+  "type": "journal-article",
+  "volume": "26",
+  "year": 2006
+ }
+}

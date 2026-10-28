@@ -1,0 +1,15 @@
+d621fd82be533bd8d570b54b237e6dcb  ENIGMA_LICENSE.txt
+bd21d7d61749f70f816baeca2fe62808  JHU-ICBM-FA-1mm.nii.gz
+aca2532e0a5ce4a1378352152db4e9e5  JHU-ICBM-labels-1mm.nii.gz
+f71d9bf20423f039272b78c8b77da86f  JHU-ICBM-tracts-maxprob-thr25-1mm.nii.gz
+9c3614b10dc958bdcc1ae3fd802f3040  JHU-labels.xml
+5924e013d8976b31b11d949b4ff7febc  JHU-tracts.xml
+50b952f161c11f4da351c63b9744cdad  aparc_fsa5.csv
+b02938d1ea6cd8ccf33a83d40924bedb  dk68_order.txt
+ca1a430946f381917de3106e52e0e54d  fsa5_lh.gii
+45ca97073522790d1258b80f81373a33  fsa5_rh.gii
+5c7de687deac69bb8c50a7239c70d1ff  sctx_lh.gii
+87a1675828fa40756c79d146cd40fde8  sctx_rh.gii
+c7177cbf9768442e18a30ac7bf55772c  heart/heart_surface.vtp
+4af1e10697ac7cc2dbf7314a765390ba  heart/vessels.vtp
+20d4ccd8acca6ba80f1004efe32548bf  heart/stump_geometry.npy

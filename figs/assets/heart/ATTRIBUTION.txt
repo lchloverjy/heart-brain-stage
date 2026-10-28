@@ -1,0 +1,12 @@
+heart_surface.vtp, vessels.vtp, and stump_geometry.npy are derived (outer surface extraction, smoothing, AHA
+segment labelling, and completion of the great-vessel stumps; see figs/heart_assets.py) from:
+
+Rodero C, Strocchi M, Marciniak M, Longobardi S, Whitaker J, O'Neill MD, Gillette K, Augustin C, Plank G,
+Vigmond EJ, Lamata P, Niederer SA. Virtual cohort of extreme and average four-chamber heart meshes from
+statistical shape model. Zenodo 2021. doi:10.5281/zenodo.4593739. Licence: Creative Commons Attribution 4.0
+International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.
+Related article: Rodero C, et al. Linking statistical shape models and simulated function in the healthy adult
+human heart. PLoS Comput Biol 2021;17:e1008851.
+
+Changes were made. The template is used for display only; it is not the anatomy of any UK Biobank participant.
+Regenerate with: bash figs/assets/fetch_heart_template.sh
