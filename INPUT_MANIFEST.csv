@@ -1,0 +1,34 @@
+location,relative_path,bytes,md5,content,used_by
+HB_RAW,up/module3_preparation/03_inputs/sustain_all10.csv,402031,52c6458acac70bd86dda3ee87e306810,SuStaIn input z scores (participant level),"common.py, restage.py, replication_sustain.py"
+HB_RAW,up/module3_preparation/03_inputs/sustain_mri_only.csv,2165736,ef18c409fa01382025c30e3db5600068,SuStaIn input z scores (participant level),"common.py, restage.py, replication_sustain.py"
+HB_RAW,up/module3_preparation/03_inputs/sustain_mri_only_matched_all10.csv,294890,9b1e4c48a9e328c879aa338d6d325410,SuStaIn input z scores (participant level),"common.py, restage.py, replication_sustain.py"
+HB_RAW,up/module3_preparation/03_inputs/sustain_mri_plus_m13.csv,336140,e98d18a8b935c095ba2b4c5a409bbd33,SuStaIn input z scores (participant level),"common.py, restage.py, replication_sustain.py"
+HB_RAW,up/module3_preparation/04_thresholds/thresholds_all10.csv,511,369dad8613905cae451eef7472f65a3f,z-score thresholds per marker (aggregate),common.py
+HB_RAW,up/module3_preparation/04_thresholds/thresholds_mri_only.csv,396,4c0f9286138493bd0c39b3fe3487ac22,z-score thresholds per marker (aggregate),common.py
+HB_RAW,up/module3_preparation/04_thresholds/thresholds_mri_only_matched_all10.csv,396,0fae7e97740b4872415673c7ee85375f,z-score thresholds per marker (aggregate),common.py
+HB_RAW,up/module3_preparation/04_thresholds/thresholds_mri_plus_m13.csv,435,c21fb57eb59c6526cf2b76af63a41dab,z-score thresholds per marker (aggregate),common.py
+HB_RAW,up2/sustain_final/all10/selected_event_sequences.csv,4143,db83085807eafd595bb2028e35119894,final SuStaIn model output: event sequences (aggregate),"common.py, sustain_deep.py"
+HB_RAW,up2/sustain_final/all10/selected_subject_subtype_stage.csv,224690,5469fe3168f0e1ecc56d64891fabf21a,final SuStaIn model output: subtype/stage per participant,"common.py, sustain_deep.py"
+HB_RAW,up2/sustain_final/all10/pickle_files/all10_final_subtype1.pickle,53387182,d940f89b1249ffca75090db76bd19ff6,final SuStaIn MCMC pickle (contains participant-level fields),"common.py, sustain_deep.py, restage.py"
+HB_RAW,up2/sustain_final/mri_plus_m13/selected_event_sequences.csv,2715,aeaaaf5b61d5fda0cb0697a1fd559ee0,final SuStaIn model output: event sequences (aggregate),"common.py, sustain_deep.py"
+HB_RAW,up2/sustain_final/mri_plus_m13/selected_subject_subtype_stage.csv,224547,2334d3273bfe86266593f1348cb70ac9,final SuStaIn model output: subtype/stage per participant,"common.py, sustain_deep.py"
+HB_RAW,up2/sustain_final/mri_plus_m13/pickle_files/mri_plus_m13_final_subtype1.pickle,43244207,46b4d6d0b6873cb7994d8f80ab207a6e,final SuStaIn MCMC pickle (contains participant-level fields),"common.py, sustain_deep.py, restage.py"
+HB_RAW,up2/sustain_final/mri_only_matched_all10/selected_event_sequences.csv,3938,b4ae5447e60f3f8b09f0a6f5abca815a,final SuStaIn model output: event sequences (aggregate),"common.py, sustain_deep.py"
+HB_RAW,up2/sustain_final/mri_only_matched_all10/selected_subject_subtype_stage.csv,226327,f3ea90a9a553b6d878269998565f3fb3,final SuStaIn model output: subtype/stage per participant,"common.py, sustain_deep.py"
+HB_RAW,up2/sustain_final/mri_only_matched_all10/pickle_files/mri_only_matched_all10_final_subtype2.pickle,48904582,8379630734a36e48ef19d75747a892b5,final SuStaIn MCMC pickle (contains participant-level fields),"common.py, sustain_deep.py, restage.py"
+HB_RAW,up/score_reconstruction/e_cohort_visits.csv,132541,3aaf7158608c509110b1a2c8a9a4042c,"assessment-centre dates, derivation sample (field 53)",build_cohort.py
+HB_RAW,ukb_area/data_all.csv,253395100,5c448514954a0884d571acfc2bcf74b0,baseline covariates incl. 4080-2.0 (participant level),"build_cohort.py, validation_independent.py"
+UKB_DATA,41270.csv,151003389,c0040ca618007adbf4adf2d6491967b3,HES ICD-10 diagnoses (field 41270),common.py
+UKB_DATA,41280.csv,189127901,f275a96b826b008e1d617f407b72aefd,HES diagnosis dates (field 41280),common.py
+UKB_DATA,ALL_death.csv,28056409,a9242c9908d63ea4fe3071fbb005501f,"death registry (fields 40000, 40001, 40002)",common.py
+UKB_DATA,time_assessment_centre.csv,11732365,279f82023233eb1e464ed5571669e08e,"assessment-centre dates, instances 0-3 (field 53)",common.py
+HB_ROOT/results (derived),replication_sustain/pickle_files/rep6000_subtype0.pickle,5264990,1a2433e37aeacbd3468fc9bb91eb247e,de novo SuStaIn refit pickle (participant-level fields); regenerated with RUN_DENOVO=1,replication_compare.py
+HB_ROOT/results (derived),replication_sustain/pickle_files/rep6000_subtype1.pickle,9265154,f2bf97a9217cafecef09840e897f95eb,de novo SuStaIn refit pickle (participant-level fields); regenerated with RUN_DENOVO=1,replication_compare.py
+HB_ROOT/results (derived),replication_sustain/pickle_files/rep6000_subtype2.pickle,13265306,701336c44a536c113894edf4d9478c21,de novo SuStaIn refit pickle (participant-level fields); regenerated with RUN_DENOVO=1,replication_compare.py
+HB_RAW,brainraw/原始脑区数据/brain_idps_587used_new.csv,176034,1dda4bb82eb505ec429af0276ec0d658,"dictionary of the 587 brain imaging-derived phenotypes (field, name, category)",regional_atlas.py
+HB_RAW,brainraw/原始脑区数据/data_587idp_v2.csv,197567486,0d339424b08b5869619badf468d53ff3,"brain imaging-derived phenotypes and intracranial volume, imaging visit (participant level)",regional_atlas.py
+HB_RAW,cmr/cmr82.csv,268605278,0de48a252956ab5f378ad7a7d9e8a6b9,"cardiac MRI measures incl. 16-segment wall thickness and strain, imaging visit (participant level)",regional_atlas.py
+HB_RAW,ukb_area_up/brain_mri_domain_pca_weights.csv,13619,44d454a3964ec8320cc859c078f6a38b,loadings of the brain MRI domain scores (aggregate),regional_atlas.py
+HB_RAW,ukb_area_up/cardio_mri_pca_weights_complete_case_instance2.csv,7883,b7345fd37edc2b3f38467d6aa88202d9,loadings of the cardiac MRI domain scores (aggregate),regional_atlas.py
+HB_RAW,up/module3_preparation/01_reference/reference_primary_eids.csv,4839292,29b3f6db2e7396c08f4f88c085915d34,participant IDs of the disease-free normative reference group,regional_atlas.py
+HB_RAW,up/module3_preparation/02_normative_models/all_normative_zscores.csv,14582609,f7ffa456e7b978473e71f824a00c00f7,domain-level normative z scores (participant level),regional_atlas.py

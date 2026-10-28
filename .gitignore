@@ -1,0 +1,8 @@
+results/
+raw/
+data_ukb/
+*.pkl
+!figs/_coronal_cache.pkl
+__pycache__/
+figs/output/
+manuscript/output/
